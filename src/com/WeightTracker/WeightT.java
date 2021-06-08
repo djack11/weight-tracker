@@ -93,7 +93,7 @@ public class WeightT {
 		     	
 		       
 		 System.out.println("Thank you for being great!");	
-		 System.out.println("");	
+		 	
 		  
 	}
 }	
